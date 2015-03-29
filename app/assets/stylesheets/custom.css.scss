@@ -1,0 +1,28 @@
+$navbar-default-bg: mediumseagreen;
+$navbar-link: white;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+#logo {
+  font-size: 20px;
+  color: white;
+}
+
+
+
+#signup{
+  color: white;
+}
+
+#signup:hover{
+  color: black;
+}
+
+.jumbotron{
+  margin: 0px;
+}
+
+.nav{
+  margin: 0px;
+}

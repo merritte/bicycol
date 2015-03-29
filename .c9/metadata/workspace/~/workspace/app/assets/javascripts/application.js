@@ -1,0 +1,1 @@
+{"filter":false,"title":"application.js","tooltip":"~/workspace/app/assets/javascripts/application.js","ace":{},"undoManager":{"mark":0,"position":-1,"stack":[]},"timestamp":1427591336000,"hash":"999918a6f9080e20e114f005b89e9eb7d8820be0"}
